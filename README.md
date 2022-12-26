@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm JavaScript Developer<br>Shoot me an Email or find me on Linkedin :) 
+I'm JavaScript Developer<br>Shoot me an Email or find me on [!LinkedIn](https://www.linkedin.com/in/ignacio-mansilla-gomez-3502551a3/) :) 
 
 
 ## 🌐 Socials:

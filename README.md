@@ -18,6 +18,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IgnacioMansillaGomez&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioMansillaGomez&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+<a href="https://app.daily.dev/IgnacioMansilla"><img src="https://api.daily.dev/devcards/9ed2abe0d0b9490b99f8dfd7c4d073de.png?r=bqe" width="400" alt="Ignacio Mansilla's Dev Card"/></a>
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IgnacioMansillaGomez&theme=chalk&no-frame=true&no-bg=true&margin-w=4)
 
